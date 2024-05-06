@@ -1,3 +1,3 @@
 <?php
-$conn=mysqli_connect("localhost","root","","blood_donation") or die("Connection error");
+$conn=mysqli_connect("localhost","root","","blooddon") or die("Connection error");
 ?>
